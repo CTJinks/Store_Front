@@ -1,0 +1,195 @@
+body{
+    background-image: url(https://images.pexels.com/photos/347139/pexels-photo-347139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+nav{
+    background-color: rgb(209, 47, 80);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 125px;
+}
+.navbuttons{
+    float: right;
+    margin-top: -150px;
+    background-color: goldenrod;
+    color: white;
+    padding: 8px 12px 8px 12px;
+    border: transparent;
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+.icons{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    float: right;
+    margin-top: -100px;
+    margin-right: 20px;
+    border: 2px solid goldenrod;
+}
+.instagram{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    float: right;
+    margin-top: -100px;
+    margin-right: 80px;
+    border: 2px solid goldenrod;
+    background-color: honeydew;
+}
+.twitter{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    float: right;
+    margin-top: -100px;
+    margin-right: 140px;
+    border: 2px solid goldenrod;
+}
+#aboutus{
+    margin-right: 100px;
+    
+}
+#christians{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: honeydew;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 50px;
+}
+#record-shop{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: goldenrod;
+    font-weight: 600;
+    margin-top: -40px;
+    font-size: 65px;
+    margin-left: 45px;
+}
+
+.store-info{
+    left: -6px;
+    background-image: url(https://www.pixeden.com/media/k2/galleries/220/003-wood-melamine-subttle-pattern-background-pat.jpg);
+    background-size: cover;
+    margin-top: -32px;
+    margin-left: 5px;
+    width: 300px;
+    height: 538px;
+    border: 5px solid rgb(209, 47, 80);
+    border-radius: 25px 25px 25px 0px;
+    position: fixed;
+    color: honeydew;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+.article-title{
+    background-color: rgb(209, 47, 80);
+    border: 3px solid goldenrod;
+    margin-top: 5px;
+    border-radius: 10px;
+       
+}
+.aotm-pic{
+    height: 280px;
+    width: 280px;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-top: -15px;
+}
+audio{
+    margin-top: -13px;
+}
+.aotm-info{
+    margin-top: -1px;
+}
+.aotm{
+    margin-top: -3px;
+}
+.aotm-title{
+    margin-top: -20px;
+    
+}
+.store-border{
+    background-color: rgb(209, 47, 80);
+    height: 940px;
+    width: 1010px;
+    margin-top: 140px;
+    margin-left: 315px;
+    margin-right: 0px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.store{
+    background-color: honeydew;
+    height: 920px;
+    width: 990px;
+    border-radius: 10px;
+    margin: 5px;
+    border: 5px solid goldenrod;
+    padding: 0px; 
+}
+.album{
+    height: 207px;
+    width: 470px;
+    margin: 10px;
+    border: 5px solid rgb(209, 47, 80);
+    border-radius: 7px;
+}
+.album-right{
+    height: 207px;
+    width: 470px;
+    margin-left: 500px;
+    margin-top: -454px;
+    border: 5px solid rgb(209, 47, 80);
+    border-radius: 7px;
+}
+.album-bottom-right{
+    height: 207px;
+    width: 470px;
+    margin-top: 10px;
+    margin-left: 500px;
+    border: 5px solid rgb(209, 47, 80);
+    border-radius: 7px;
+}
+.album-pic{
+    height: 190px;
+    width: 190px;
+    margin: 8px 8px 8px 8px;
+    border-radius: 7px;
+}
+.album-info{
+    margin-left: 220px;
+    margin-top: -217px;
+    margin-right: 3px;
+    font-family: 'Trebuchet MS';
+}
+.album-title{
+    text-decoration: underline;
+    color: rgb(209, 47, 80);
+}
+.buy{
+    background-color: goldenrod;
+    color: white;
+    padding: 8px 12px 8px 12px;
+    border: transparent;
+    border-radius: 5px;  
+}
+footer{
+    background-color: rgb(209, 47, 80);
+    height: 125px;
+    width: 100vw;
+    bottom: -50px;
+    position: relative;
+    z-index: -1;
+    padding: 0px;
+}
+.footer-info{
+    padding-top: 7px;
+    text-align: center;
+    margin-left: 300px;
+    font-family: 'Trebuchet MS';
+    font-size: 25px;
+    color: goldenrod;
+}
